@@ -23,7 +23,15 @@ $ cd (package)
 $ go test
 ```
 
+## Tagging
+
+```
+$ git tag v0.1.0
+$ git push origin v0.1.0
+```
+
 ## Reference
 
 * https://eli.thegreenplace.net/2019/simple-go-project-layout-with-modules/
+
 
