@@ -2,7 +2,7 @@
 
 ## Usage
 
-### initialize your module
+### Initialize your module
 
 ```
 $ go mod init example.com/my-gokit-demo
