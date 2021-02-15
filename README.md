@@ -8,7 +8,7 @@
 $ go mod init example.com/my-gokit-demo
 ```
 
-### Get thie gokit module
+### Get the gokit module
 
 Note that you need to include the **v** in the version tag.
 
